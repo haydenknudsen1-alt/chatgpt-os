@@ -24,7 +24,7 @@ This project is actively developed and experimental in nature.
 
 ## Screenshots
 
-(Add screenshots here later)
+not yet
 
 ---
 
