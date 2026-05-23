@@ -1,5 +1,5 @@
 # MyOS
-
+First i want to point out that this is a expiramental os on that vibecode/made by me kind of thing
 A hobby operating system built from scratch in C and assembly using the GRUB multiboot standard.
 
 ---
